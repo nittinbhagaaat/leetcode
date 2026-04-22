@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/a4appIe/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/a4appIe/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/a4appIe/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/a4appIe/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/a4appIe/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/a4appIe/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/a4appIe/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/a4appIe/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/a4appIe/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/a4appIe/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/a4appIe/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/a4appIe/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/a4appIe/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/a4appIe/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/a4appIe/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/a4appIe/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/a4appIe/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/a4appIe/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
