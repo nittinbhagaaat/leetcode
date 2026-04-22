@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/a4appIe/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/a4appIe/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/a4appIe/leetcode/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/a4appIe/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/a4appIe/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/a4appIe/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/a4appIe/leetcode/tree/master/0078-subsets) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/a4appIe/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/a4appIe/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/a4appIe/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/a4appIe/leetcode/tree/master/0242-valid-anagram) |
