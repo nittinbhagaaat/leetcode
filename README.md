@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/a4appIe/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/a4appIe/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/a4appIe/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/a4appIe/leetcode/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/a4appIe/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/a4appIe/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/a4appIe/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/a4appIe/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/a4appIe/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/a4appIe/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/a4appIe/leetcode/tree/master/0860-lemonade-change) |
 ## Counting
 |  |
 | ------- |
