@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/a4appIe/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/a4appIe/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/a4appIe/leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/a4appIe/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/a4appIe/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/a4appIe/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/a4appIe/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/a4appIe/leetcode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/a4appIe/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/a4appIe/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/a4appIe/leetcode/tree/master/0455-assign-cookies) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/a4appIe/leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/a4appIe/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/a4appIe/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/a4appIe/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
